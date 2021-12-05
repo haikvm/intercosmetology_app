@@ -51,7 +51,6 @@
     <icon src="res/icon/ios/icon-72@2x.png" width="144" height="144"/>
     <icon src="res/icon/ios/icon-76.png" width="76" height="76"/>
     <icon src="res/icon/ios/icon-76@2x.png" width="152" height="152"/>
-    <icon src="res/icon/ios/icon-167.png" width="167" height="167"/>
     <icon src="res/icon/ios/icon-83.5@2x.png" width="167" height="167"/>
     <preference name="scheme" value="monaca-app"/>
     <preference name="hostname" value="localhost"/>
